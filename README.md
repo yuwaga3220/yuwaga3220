@@ -27,6 +27,7 @@
 
 - [📅 シフト管理アプリ](ここにURLを添付)（Flask製）
 - [📖 攻略サイト（WordPress）](https://yuwango.com)
+- [Qiita記事投稿](https://qiita.com/youwuzhangze)
 
 <!--
 **yuwaga3220/yuwaga3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
