@@ -1,5 +1,29 @@
-## Hi there 👋
+# こんにちは！ 👋 yugoです
 
+大学で情報系を学んでいる学生です。主に Python や Flask を使って Web アプリを開発しています。
+現在はシフト管理アプリを開発中で、将来的にはインターンや仕事でスキルを活かしたいと考えています。
+
+## 🛠 スキル・使用技術
+
+- 言語: Python
+- フレームワーク: Flask, SQLAlchemy, Unity
+- ツール: Git, GitHub, VS Code, SQLite, ROS2
+- その他: HTML/CSS, Bootstrap, WordPress, Operasim + Unity連携
+
+## 📌 取り組み中のプロジェクト
+
+- シフト管理アプリ（Flask + SQLite）
+- 災害対応建機についての研究
+- ゲーム攻略サイトの制作（WordPress）
+- 競技プログラミング
+
+## 📫 連絡方法
+
+- GitHub: [@yuwango](https://github.com/yuwango)
+
+---
+
+🍀 勉強中の学生エンジニアです。
 <!--
 **yuwaga3220/yuwaga3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
