@@ -10,6 +10,11 @@
 - ツール: Git, GitHub, VS Code, SQLite, ROS2
 - その他: HTML/CSS, Bootstrap, WordPress, Operasim + Unity連携
 
+## 取得資格
+- ITパスポート
+- 基本情報技術者
+- 応用情報技術者（合格発表待ち）
+
 ## 📌 取り組み中のプロジェクト
 
 - シフト管理アプリ（Flask + SQLite）
