@@ -19,7 +19,7 @@
 
 ## 📫 連絡方法
 
-- GitHub: [@yuwango](https://github.com/yuwango)
+- GitHub: [@yuwaga]([https://github.com/yuwango](https://github.com/yuwaga3220/)
 
 ---
 
