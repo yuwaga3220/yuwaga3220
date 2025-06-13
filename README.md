@@ -33,6 +33,17 @@
 - [📅 ゲーマー用アプリ](ここにURLを添付)
 - [📖 攻略サイト（WordPress）](https://yuwango.com)
 
+## 趣味
+趣味はPCゲームで特にFPSが好きです。
+-Valorant
+-OverWatch2
+
+## アルバイト・インターン経験
+-食品デリバリー
+-居酒屋ホール
+-テニスコーチ
+-プログラミングスクール講師（現在）
+
 ---
 <!--
 **yuwaga3220/yuwaga3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
