@@ -1,14 +1,14 @@
 # こんにちは！ 👋 yugoです
 
-大学でロボット系の研究をしている学生です。個人では主にに Python や Flask を使った Web アプリ開発や競技プログラミングをしています。
-現在はシフト管理アプリを開発中で、将来的にはインターンや仕事でスキルを活かしたいと考えています。
+大学でロボットの研究をしている学生です。個人では主にに Python や Flask を使った Webアプリ開発や競技プログラミングをしています。
+現在はゲーマー向けの予定を調整・可視化するアプリを開発中で、将来的にはインターンや仕事でスキルを活かしたいと考えています。
 
 ## 🛠 スキル・使用技術
 
 - 言語: Python
 - フレームワーク: Flask, SQLAlchemy, Unity
 - ツール: Git, GitHub, VS Code, SQLite, ROS2
-- その他: HTML/CSS, Bootstrap, WordPress, Operasim + Unity連携
+- その他: HTML/CSS, Bootstrap, WordPress, Operasim-Physx+Unity
 
 ## 取得資格
 - ITパスポート
@@ -16,11 +16,11 @@
 - 応用情報技術者（合格発表待ち）
 
 ## 大学での研究内容
-土砂災害発生時に土嚢を設置するタスクを行う建機についてShared Autonomyを起点としてタスク制御を最適化することを目標としています。
+自然災害現場における建設機械の遠隔操縦を支援するシステムの開発
 
 ## 📌 取り組み中のプロジェクト
 
-- シフト管理アプリ（Flask + SQLite）
+- ゲーマー向けの予定を調整・可視化するアプリ（Flask + SQLite）
 - ゲーム攻略サイトの制作（WordPress）
 - 競技プログラミング
 
@@ -30,9 +30,8 @@
 
 ## 🔥 代表作品
 
-- [📅 シフト管理アプリ](ここにURLを添付)（Flask製）
+- [📅 ゲーマー用アプリ](ここにURLを添付)
 - [📖 攻略サイト（WordPress）](https://yuwango.com)
-- [Qiita記事投稿](https://qiita.com/youwuzhangze)
 
 ---
 <!--
