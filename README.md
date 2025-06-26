@@ -38,7 +38,7 @@ Unity + ROS2 を活用し、Shared Autonomy による操縦支援を研究中。
 - React / Next.js / Prisma / Discord連携
 - ゲーマー同士が予定を手軽に共有できるアプリ
 
-### 🕹 [ゲーム攻略サイト](https://yuwango.com)
+### 🕹 [ゲーム攻略サイト（ヴァロラボ）](https://yuwango.com)
 - WordPress
 - ゲームごとの攻略情報・Tipsを発信
 
