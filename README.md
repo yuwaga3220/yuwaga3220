@@ -34,7 +34,7 @@ Unity + ROS2 を活用し、Shared Autonomy による操縦支援を研究中。
 
 ## 🚀 開発中・公開中プロジェクト
 
-### 📅 [ゲーマー向け予定調整アプリ（GG Scheduler）]
+### 📅 [ゲーマー向け予定調整アプリ（GG Scheduler）]()
 - リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
 - React / Next.js / Prisma / Discord連携
 - ゲーマー同士が予定を手軽に共有できるアプリ
