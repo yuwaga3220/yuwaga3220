@@ -35,17 +35,25 @@ Unity + ROS2 を活用し、Shared Autonomy による遠隔操縦支援を研究
 
 ## 🚀 開発中・公開中プロジェクト
 
+### ゲーム開発
+- C# / Unity
+- 今後進めていきます。
+  
+### 🧠 競技プログラミング（AtCoder 水色目標）
+- C++
+
 ### 📅 ゲーマー向け予定調整アプリ（GG Scheduler）
 - リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
 - React / Next.js / Prisma / Discord連携
 - ゲーマー同士が予定を手軽に共有できるアプリ
+- 友人たちに利用してもらいました！
 
-### 🕹 [ゲーム攻略サイト（ヴァロラボ）](https://yuwango.com)
+### 🕹 ゲーム攻略サイト（ヴァロラボ）
 - WordPress
-- ゲームごとの攻略情報・Tipsを発信
+- FPSゲームのVALORANTに関する攻略情報・Tipsを発信
+- 30記事ほど投稿しましたが、現在は閉鎖しています。
 
-### 🧠 競技プログラミング（AtCoder 水色目標）
-- Python（現在C++へ移行中）
+
 
 ---
 
