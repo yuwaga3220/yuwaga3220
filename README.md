@@ -35,7 +35,8 @@
 Unity + ROS2 を活用し、Shared Autonomy による遠隔操縦支援を開発中。
 
 ### ゲーム開発（「You Just Support.」）
-- Unity Roomにて公開しています。[こちら](https://unityroom.com/games/youjustsupport)
+- Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
+- リポジトリは[こちら](https://github.com/yuwaga3220/Shooting2S)
 - Unity / C#
 - AIの機体をサポートして敵のせん滅を目指す2Dシューティング
 - 2025/10-12
