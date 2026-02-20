@@ -2,15 +2,17 @@
 
 大学で **ロボット（主に建設機械）の研究** をしている情報系の学生です。  
 
-将来的は、**ゲーム業界のエンジニア職でスキルを活かしたい** です。
+将来的は、**IT企業や，ゲーム関連のエンジニアとしてスキルを活かしたい** です。
 
 ---
 
 ## スキルセット
 
-- **言語**: Python / C# / JavaScript
-- **ツール**: ROS2 / Unity / WordPress 
-- **フレームワーク**: React / Next.js
+- **言語** : TypeScript / JavaScript / Python / C++ / C#
+- **ウェブアプリ開発** : React / Next.js
+- **ゲーム開発** : Unity
+- **ロボティクス＆シミュレーション** : ROS2 / Unity
+- **業務効率化** : GAS (Google Apps Script) / WordPress / OpenAI API
 
 ---
 
@@ -22,17 +24,27 @@
 
 ---
 
-## 現在の目標
-### Kaggleにてメダル取得
-- 2025/12-2026/?
+## 現在取り組んでいること
+
+### Discord Bot版GG Schedulerの開発
+- 以前開発したGG Schedulerを改良して，Discord Bot版としてより扱いやすいものを開発中
+- 2026/2 ~ now
+### AtCoder出場
+- 2026/1 ~ now
 
 ---
 
 ## プロジェクト
 
-### 研究
-**自然災害現場における建設機械の遠隔操縦支援システム** の開発  
-Unity + ROS2 を活用し、Shared Autonomy による遠隔操縦支援を開発中。
+### 改良版ゲーマー向けの予定調整アプリ（「GGWP Scheduler」）
+- 現在開発中です！
+
+### ゲーマー向け予定調整アプリ（「GG Scheduler」）
+- リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
+- React / Next.js / Prisma / Discord連携
+- ゲーマー同士が予定を手軽に共有・確認できるアプリ
+- 友人たちに利用してもらいました！
+- 2025/5-7
 
 ### ゲーム開発（「You Just Support.」）
 - Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
@@ -40,13 +52,10 @@ Unity + ROS2 を活用し、Shared Autonomy による遠隔操縦支援を開発
 - Unity / C#
 - AIの機体をサポートして敵のせん滅を目指す2Dシューティング
 - 2025/10-12
-  
-### ゲーマー向け予定調整アプリ（「GG Scheduler」）
-- リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
-- React / Next.js / Prisma / Discord連携
-- ゲーマー同士が予定を手軽に共有・確認できるアプリ
-- 友人たちに利用してもらいました！
-- 2025/5-7
+
+### 研究
+- **重資材の運搬を目的とした建設機械の遠隔操縦支援システム** の開発  
+- Unity + ROS2
 
 ### ゲームブログ（ヴァロラボ）
 - WordPress
@@ -56,20 +65,22 @@ Unity + ROS2 を活用し、Shared Autonomy による遠隔操縦支援を開発
 
 ---
 
-## 経験
+## 課外活動・アルバイト経験
 
-- ITベンチャーでのインターン（WEBシステムのテスト、ブログ投稿）(2025-)
+- ITベンチャーでのインターン（WEBシステムのテスト、ブログ自動作成システムの開発）(2025-)
 - 食品デリバリー・居酒屋ホール・テニスコーチなど接客・教育経験 (2022-2024)
 - テニスサークル (2022-2024)
 
 ---
 
-## 趣味・好きなゲーム
+## 趣味
 
-- **FPSゲームが好きです！**
+- **ゲームが好きです！**
   - Valorant
   - Overwatch 2
-  - Rainbow Six Siege
+  - LOL
 - そのほかパーティゲームなど
+
+- お笑いやアニメもよく見ます！
 
 ---
