@@ -9,7 +9,7 @@
 ## スキルセット
 
 - **言語** : TypeScript / JavaScript / Python / C++ / C#
-- **ウェブアプリ開発** : React / Next.js
+- **アプリケーション開発** : Discord bot / React / Next.js
 - **ゲーム開発** : Unity
 - **ロボティクス＆シミュレーション** : ROS2 / Unity
 - **業務効率化** : GAS (Google Apps Script) / WordPress / OpenAI API
