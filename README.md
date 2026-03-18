@@ -12,7 +12,7 @@
 - **アプリケーション開発** : Discord bot / React / Next.js
 - **ゲーム開発** : Unity
 - **ロボティクス＆シミュレーション** : ROS2 / Unity
-- **業務効率化** : GAS (Google Apps Script) / WordPress / OpenAI API
+- **業務効率化** : GAS (Google Apps Script) / WordPress REST API/ OpenAI API
 
 ---
 
@@ -31,6 +31,8 @@
 - 2026/2 ~ now
 ### AtCoder出場
 - 2026/1 ~ now
+### GASを使用した業務効率化システムの開発（アルバイト）
+- 2025/5 ~ now
 
 ---
 
