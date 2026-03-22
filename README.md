@@ -1,6 +1,6 @@
 # こんにちは！Yugo（@yuwaga）です
 
-大学で **ロボット（主に建設機械）の研究** をしている情報系の学生です。  
+筑波大学大学院にて **ロボット（主に建設機械）の研究** をしている情報系大学院生です。  
 
 将来は、**優秀なエンジニアとして技術で社会課題を解決したい** です。
 
@@ -12,7 +12,7 @@
 - **アプリケーション開発** : Discord bot / React / Next.js
 - **ゲーム開発** : Unity
 - **ロボティクス＆シミュレーション** : ROS2 / Unity
-- **業務効率化** : GAS (Google Apps Script) / WordPress REST API/ OpenAI API
+- **業務効率化** : GAS (Google Apps Script) / WordPress / 生成AI / 各種API
 
 ---
 
