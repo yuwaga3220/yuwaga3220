@@ -2,7 +2,7 @@
 
 大学で **ロボット（主に建設機械）の研究** をしている情報系の学生です。  
 
-将来的は、**IT企業や，ゲーム関連のエンジニアとしてスキルを活かしたい** です。
+将来は、**優秀なエンジニアとして技術で社会課題を解決したい** です。
 
 ---
 
@@ -26,10 +26,9 @@
 
 ## 現在取り組んでいること
 
-### Discord Bot版GG Schedulerの開発
-- 以前開発したGG Schedulerを改良して，Discord Bot版としてより扱いやすいものを開発中
-- 2026/2 ~ now
-### AtCoder出場
+### Discord Bot版GG Schedulerの運営・改良
+- デバッグやさらなるユーザビリティの向上に向けて改善を行っています．
+### AtCoder出場（現在グレー）
 - 2026/1 ~ now
 ### GASを使用した業務効率化システムの開発（アルバイト）
 - 2025/5 ~ now
@@ -38,14 +37,18 @@
 
 ## プロジェクト
 
-### 改良版ゲーマー向けの予定調整アプリ（「GGWP Scheduler」）
-- 現在開発中です！
+### ゲーマー向け予定調整Discord Bot（「GGWP Scheduler」）
+- Discord.js / PostgreSQL / Node.js / TypeScript
+- リポジトリは[こちら](https://github.com/yuwaga3220/ggwp_scheduler)
+- ゲーマー同士が予定ややりたいゲームを手軽に共有・確認できるDiscord Bot
+- 友だちのDiscordサーバなど複数サーバにて，運営中
+- 2026/2-3
 
-### ゲーマー向け予定調整WEBアプリ（「GG Scheduler」）
+### ゲーマー向け予定調整Webアプリ（「GG Scheduler」）
 - リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
-- Discord Webhook / React / Next.js / Prisma / 
+- Discord Webhook / React / Next.js / Prisma / JavaScript
 - ゲーマー同士が予定を手軽に共有・確認できるDiscord連携アプリ
-- 友人たちに利用してもらいました！
+- 友だちのコミュニティにて利用してもらいました！
 - 2025/5-7
 
 ### ゲーム開発（「You Just Support.」）
@@ -53,6 +56,7 @@
 - リポジトリは[こちら](https://github.com/yuwaga3220/Shooting2S)
 - Unity / C#
 - AIの機体をサポートして敵のせん滅を目指す2Dシューティング
+- OverWatchのサポートから着想を得ました！
 - 2025/10-12
 
 ### 研究
@@ -71,7 +75,7 @@
 
 - ITベンチャーでのインターン（ブログ自動作成システムの開発．WEBシステムのテスト）(2025-)
 - 食品デリバリー・居酒屋ホール・テニスコーチなど接客・教育経験 (2022-2024)
-- テニスサークル (2022-2024)
+- テニスサークルにて大規模な大会の運営係を務めました．(2022-2024)
 
 ---
 
@@ -83,6 +87,6 @@
   - Leage of Legend
 - そのほかパーティゲームなど
 
-- お笑いやアニメもよく見ます！
+- お笑いやアニメもめっちゃ見ます！
 
 ---
