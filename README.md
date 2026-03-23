@@ -40,7 +40,7 @@
 ## プロジェクト
 
 ### ゲーマー向け予定調整Discord Bot（「GGWP Scheduler」）
-- Discord.js / PostgreSQL / Node.js / TypeScript
+- TypeScript / Node.js / Discord.js / PostgreSQL
 - リポジトリは[こちら](https://github.com/yuwaga3220/ggwp_scheduler)
 - ゲーマー同士が予定ややりたいゲームを手軽に共有・確認できるDiscord Bot
 - 友だちのDiscordサーバなど複数サーバにて，運営中
@@ -48,7 +48,7 @@
 
 ### ゲーマー向け予定調整Webアプリ（「GG Scheduler」）
 - リポジトリは[こちら](https://github.com/yuwaga3220/gg_scheduler)
-- Discord Webhook / React / Next.js / Prisma / JavaScript
+- JavaScript / Next.js / React / Prisma / Discord Webhook
 - ゲーマー同士が予定を手軽に共有・確認できるDiscord連携アプリ
 - 友だちのコミュニティにて利用してもらいました！
 - 2025/5-7
