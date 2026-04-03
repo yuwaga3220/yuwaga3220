@@ -1,5 +1,19 @@
 # はじめまして！Yugo（@yuwaga）です
 
+大学院生エンジニアです。
+主にTypeScriptを使ってWebアプリやDiscord Botを開発しています。  
+研究では Unity・ROS2 を使った遠隔操縦支援に取り組んでいます。---
+
+## Ongoing Project
+
+### テニスサークル向け大会運営Webアプリの開発
+- リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
+
+### AtCoder出場
+- 現在グレー，5月までに入茶，年内入緑目標
+
+### 研究活動
+- 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
 ---
 
 ## Skills
@@ -7,18 +21,6 @@
 - **言語** : TypeScript / JavaScript / Python / C++ / C#
 - **Webアプリ開発** : Node.js / React / Next.js / discord.js
 - **その他** : Unity / ROS2 / WordPress / GAS
-
----
-
-## Activities
-
-### テニスサークル向け大会運営Webアプリの開発
-- テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリを開発中。
-
-### AtCoder出場
-- 現在グレー，5月までに入茶，年内入緑目標
-
-### 研究活動
 
 ---
 
