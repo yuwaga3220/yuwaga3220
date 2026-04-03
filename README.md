@@ -1,19 +1,19 @@
-# 初めまして！Yugo（@yuwaga）です
+# はじめまして！Yugo（@yuwaga）です
 
 ---
 
 ## Skills
 
-- **Language** : TypeScript / JavaScript / Python / C++ / C#
-- **Web Application Development** : Node.js / React / Next.js / discord.js
-- **Other** : Unity / ROS2 / WordPress / GAS
+- **言語** : TypeScript / JavaScript / Python / C++ / C#
+- **Webアプリ開発** : Node.js / React / Next.js / discord.js
+- **その他** : Unity / ROS2 / WordPress / GAS
 
 ---
 
 ## Activities
 
 ### テニスサークル向け大会運営Webアプリの開発
-- ニュープロジェクトです。テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリを開発中。
+- テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリを開発中。
 
 ### AtCoder出場
 - 現在グレー，5月までに入茶，年内入緑目標
@@ -25,8 +25,8 @@
 ## Projects
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
--Front-end: React + TypeScript + Vite
--Back-end: Express + TypeScript + Socket.IO
+-フロントエンド: React + TypeScript + Vite
+-バックエンド: Express + TypeScript + Socket.IO
 -DB: Prisma + SQLite
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
 - テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
