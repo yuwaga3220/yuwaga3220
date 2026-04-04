@@ -24,9 +24,9 @@
 ## Projects
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
--フロントエンド: React + TypeScript + Vite
--バックエンド: Express + TypeScript + Socket.IO
--DB: Prisma + SQLite
+- フロントエンド: React + TypeScript + Vite
+- バックエンド: Express + TypeScript + Socket.IO
+- DB: Prisma + SQLite
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
 - テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
 - 10月に運営する大会に向けて開発中
