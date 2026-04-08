@@ -8,11 +8,17 @@
 
 ## 進行中プロジェクト
 
-### テニスサークル向け大会運営Webアプリの開発
+### テニスサークル向け大会運営アプリ（「Nomiteni」）
+- フロントエンド: TypeScript + React + Next.js
+- バックエンド: TypeScript + Next.js
+- DB: Prisma + SQLite
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
+- テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
+- 10月に運営する大会に向けて開発中
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
+- Unity + ROS2
 
 ---
 
@@ -26,13 +32,7 @@
 
 ## 過去プロジェクト
 
-### テニスサークル向け大会運営アプリ（「Nomiteni」）
-- フロントエンド: TypeScript + React + Next.js
-- バックエンド: TypeScript + Next.js
-- DB: Prisma + SQLite
-- リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
-- テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
-- 10月に運営する大会に向けて開発中
+
 
 ### ゲーマー向け予定調整Discord Bot（「GGWP Scheduler」）
 - TypeScript / Node.js / Discord.js / PostgreSQL
@@ -47,10 +47,6 @@
 - Unity / C#
 - AIの機体をサポートして敵のせん滅を目指すかんたんな2Dシューティングゲーム
 - OverWatchのサポートロールから着想を得ました！
-
-### 研究
-- **重資材の運搬を目的とした建設機械の遠隔操縦支援システム** の開発  
-- Unity + ROS2
 
 ### ゲームブログ（ヴァロラボ）
 - WordPress
