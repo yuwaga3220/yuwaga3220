@@ -2,18 +2,21 @@
 
 大学3年から開発を始めた新参大学院生エンジニアです。
 主にTypeScriptを使ってWebアプリやDiscord Botを開発しています。  
-研究では Unity・ROS2 を使った遠隔操縦支援に取り組んでいます。---
+研究では Unity・ROS2 を使った遠隔操縦支援に取り組んでいます。
 
-## Ongoing Project
+---
+
+## 進行中プロジェクト
 
 ### テニスサークル向け大会運営Webアプリの開発
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
+
 ---
 
-## Skills
+## スキル
 
 - **言語** : TypeScript / JavaScript / Python / C++ / C#
 - **Webアプリ開発** : Node.js / React / Next.js / discord.js
@@ -21,11 +24,11 @@
 
 ---
 
-## Projects
+## 過去プロジェクト
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
-- フロントエンド: React + TypeScript + Vite
-- バックエンド: Express + TypeScript + Socket.IO
+- フロントエンド: TypeScript + React + Next.js
+- バックエンド: TypeScript + Next.js
 - DB: Prisma + SQLite
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
 - テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
@@ -56,7 +59,7 @@
 
 ---
 
-## Other Activities
+## 課外活動
 
 - ITベンチャーでのインターン（ブログ自動作成システムの開発．WEBシステムのテスト）(2025-)
 - テニスコーチアルバイトにて接客・教育経験 (2022-2024)
@@ -64,7 +67,7 @@
 
 ---
 
-## Certifications
+## 資格
 
 - ITパスポート (2024/2)
 - 基本情報技術者 (2025/2)
@@ -72,7 +75,7 @@
 
 ---
 
-## My Hobbies
+## 趣味
 
 - **ゲームが好きです！**
   - VALORANT
