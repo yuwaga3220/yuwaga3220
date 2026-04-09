@@ -1,22 +1,21 @@
 # はじめまして！ yuwagaです
 
 大学3年から開発を始めた新参大学院生エンジニアです。
-主にTypeScriptを使ってWebアプリやDiscord Botを開発しています。  
-研究では Unity・ROS2 を使った遠隔操縦支援に取り組んでいます。
+現在はTypeScriptを使ってWebアプリやDiscord Botを開発しています。  
+研究ではPython, ROS2を使って建設機械の遠隔操縦支援に取り組んでいます。
 
 ---
 
 ## 進行中プロジェクト
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
-- フロントエンド: TypeScript + React + Next.js
-- バックエンド: TypeScript + Next.js
-- DB: Prisma + SQLite
-- リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
+- TypeScript / React / Next.js / Prisma
+- [Reposit](https://github.com/yuwaga3220/nomiteni)
+- TypeScript / Node.js / discord.js / PostgreSQL
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
-- Unity + ROS2
+- Python / ROS2 / Unity
 
 ---
 
@@ -31,12 +30,12 @@
 ## 過去プロジェクト
 
 ### ゲーマー向け予定調整Discord Bot（「GGWP Scheduler」）
-- TypeScript / Node.js / Discord.js / PostgreSQL
-- リポジトリは[こちら](https://github.com/yuwaga3220/ggwp_scheduler)
+- [Repository](https://github.com/yuwaga3220/ggwp_scheduler)
+- TypeScript / Node.js / discord.js / PostgreSQL
 
 ### ゲーム開発（「You Just Support.」）
 - Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
-- リポジトリは[こちら](https://github.com/yuwaga3220/Shooting2S)
+- [Repository](https://github.com/yuwaga3220/Shooting2S)
 - Unity / C#
 
 ### ゲームブログ（ヴァロラボ）
@@ -53,7 +52,7 @@
 
 ## 課外活動
 
-- テニスコーチアルバイトにて接客・教育経験 (2022-2024)
+- テニスコーチ (2022-2024)
 - テニスサークルにて大規模な大会の運営係を務めています．(2022-)
 
 ---
@@ -68,7 +67,7 @@
 
 ## 趣味
 
-- **ゲームが好きです！**
+- **競技性の高いゲームが好きです！**
   - VALORANT
   - OVERWATCH
   - Leage of Legend
