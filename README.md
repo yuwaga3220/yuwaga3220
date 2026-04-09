@@ -7,11 +7,11 @@
 
 ## 進行中プロジェクト
 
-### テニスサークル向け大会運営アプリ「Nomiteni」
+### 1. テニスサークル向け大会運営アプリ「Nomiteni」
 - [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / React / Next.js / Prisma
 
-### 研究活動
+### 2. 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
 - Python / ROS2 / Unity
 
@@ -27,16 +27,16 @@
 
 ## 過去プロジェクト
 
-### ゲーマー向け予定調整Discord Bot「GGWP Scheduler」
+### 1. ゲーマー向け予定調整Discord Bot「GGWP Scheduler」
 - [Repository](https://github.com/yuwaga3220/ggwp_scheduler)
 - TypeScript / Node.js / discord.js / PostgreSQL
 
-### 2Dシューティングゲーム「You Just Support.」
+### 2. 2Dシューティングゲーム「You Just Support.」
 - [Repository](https://github.com/yuwaga3220/Shooting2S)
 - [Unity Room](https://unityroom.com/games/youjustsupport)
 - Unity / C#
 
-### ゲームブログ（ヴァロラボ）
+### 3. ゲームブログ（ヴァロラボ）
 - WordPress
 - FPSゲーム「VALORANT」に関する攻略情報・Tipsを発信
 - 30記事ほど投稿、現在閉鎖。
@@ -44,7 +44,7 @@
 ---
 ## インターンシップ
 
-### 地元のITベンチャーでのインターン(2025-)
+### 1. 地元のITベンチャーでのインターン(2025-)
 - GASを使用したメディア自動作成システムの開発．WEBシステムのテスト
 - GAS / OpenAI API / WordPress REST API
 
