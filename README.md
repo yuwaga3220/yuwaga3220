@@ -32,8 +32,8 @@
 - TypeScript / Node.js / discord.js / PostgreSQL
 
 ### 2Dシューティングゲーム（「You Just Support.」）
-- Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
 - [Repository](https://github.com/yuwaga3220/Shooting2S)
+- [Unity Room](https://unityroom.com/games/youjustsupport)
 - Unity / C#
 
 ### ゲームブログ（ヴァロラボ）
