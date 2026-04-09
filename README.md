@@ -10,7 +10,7 @@
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
 - TypeScript / React / Next.js / Prisma
-- [Reposit](https://github.com/yuwaga3220/nomiteni)
+- [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / Node.js / discord.js / PostgreSQL
 
 ### 研究活動
