@@ -1,7 +1,6 @@
 # はじめまして！ yuwagaです
 
-大学3年から開発を始めた新参大学院生エンジニアです。
-現在はTypeScriptを使ってWebアプリやDiscord Botを開発しています。  
+大学3年から開発を始めたエンジニア志望の大学院生です。Webアプリケーション開発を勉強中です。個人としてTypeScriptを使ってWebアプリやDiscord Botを開発してきました。今後はハッカソンやインターンに参加して実践的な技術を伸ばしていきたいです。
 研究ではPython, ROS2を使って建設機械の遠隔操縦支援に取り組んでいます。
 
 ---
@@ -11,7 +10,6 @@
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
 - TypeScript / React / Next.js / Prisma
 - [Repository](https://github.com/yuwaga3220/nomiteni)
-- TypeScript / Node.js / discord.js / PostgreSQL
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
