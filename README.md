@@ -8,8 +8,8 @@
 ## 進行中プロジェクト
 
 ### テニスサークル向け大会運営アプリ（「Nomiteni」）
-- TypeScript / React / Next.js / Prisma
 - [Repository](https://github.com/yuwaga3220/nomiteni)
+- TypeScript / React / Next.js / Prisma
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
