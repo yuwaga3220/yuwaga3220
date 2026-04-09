@@ -8,7 +8,7 @@
 ## 関連リンク
 
 - My Page : Coming Soon...
-- 技術ブログ : [Qiita](https://qiita.com/youwuzhangze)
+- Tech Blog : [Qiita](https://qiita.com/youwuzhangze)
 - AtCoder : Coming Soon...
 
 ---
