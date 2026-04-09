@@ -13,8 +13,6 @@
 - バックエンド: TypeScript + Next.js
 - DB: Prisma + SQLite
 - リポジトリは[こちら](https://github.com/yuwaga3220/nomiteni)
-- テニスサークルによる中規模の大会運営を自動化しつつ、エンタメ的経験も届けるWebアプリ
-- 10月に運営する大会に向けて開発中
 
 ### 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
@@ -35,16 +33,11 @@
 ### ゲーマー向け予定調整Discord Bot（「GGWP Scheduler」）
 - TypeScript / Node.js / Discord.js / PostgreSQL
 - リポジトリは[こちら](https://github.com/yuwaga3220/ggwp_scheduler)
-- ウェブアプリとして開発した「gg_scheduler(/gg_scheduler)」の改良版
-- ゲーマー同士が予定ややりたいゲームを手軽に共有・確認できるDiscord Bot
-- 友だちのDiscordサーバなど複数サーバにて，運営中
 
 ### ゲーム開発（「You Just Support.」）
 - Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
 - リポジトリは[こちら](https://github.com/yuwaga3220/Shooting2S)
 - Unity / C#
-- AIの機体をサポートして敵のせん滅を目指すかんたんな2Dシューティングゲーム
-- OverWatchのサポートロールから着想を得ました！
 
 ### ゲームブログ（ヴァロラボ）
 - WordPress
