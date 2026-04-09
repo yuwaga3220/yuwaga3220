@@ -33,7 +33,7 @@
 - [Repository](https://github.com/yuwaga3220/ggwp_scheduler)
 - TypeScript / Node.js / discord.js / PostgreSQL
 
-### ゲーム開発（「You Just Support.」）
+### 2Dシューティングゲーム（「You Just Support.」）
 - Unity Roomは[こちら](https://unityroom.com/games/youjustsupport)
 - [Repository](https://github.com/yuwaga3220/Shooting2S)
 - Unity / C#
