@@ -5,6 +5,14 @@
 
 ---
 
+## 関連リンク
+
+- My Page: Coming Soon...
+- 技術ブログ:[Qiita](https://qiita.com/youwuzhangze)
+- AtCoder: Coming Soon...
+
+---
+
 ## 進行中プロジェクト
 
 ### 1. テニスサークル向け大会運営アプリ「Nomiteni」
@@ -17,7 +25,7 @@
 
 ---
 
-## スキル
+## スキル・発信
 
 - **言語** : TypeScript / JavaScript / Python / C++ / C#
 - **Webアプリ開発** : Node.js / React / Next.js / discord.js
@@ -67,11 +75,11 @@
 
 ## 趣味
 
-- **競技性の高いゲームが好きです！**
+- 競技性の高いゲームが好きです！
   - VALORANT
   - OVERWATCH
   - Leage of Legend
-- そのほかパーティゲームなど
+- その他友だちとのパーティゲームなど
 
 - お笑いやアニメ、YouTubeもめっちゃ見ます！
 
