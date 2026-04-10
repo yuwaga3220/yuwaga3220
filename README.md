@@ -25,7 +25,7 @@
 
 ---
 
-## スキル・発信
+## スキル
 
 - **言語** : TypeScript / JavaScript / Python / C++ / C#
 - **Webアプリ開発** : Node.js / React / Next.js / discord.js
