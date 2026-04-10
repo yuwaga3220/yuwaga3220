@@ -27,9 +27,9 @@
 
 ## スキル
 
-- **言語** : TypeScript / JavaScript / Python / C++ / C#
-- **Webアプリ開発** : Node.js / React / Next.js / discord.js
-- **その他** : Unity / ROS2 / WordPress / GAS
+- Language : TypeScript / JavaScript / Python / C++ / C#
+- Framework : Node.js / React / Next.js / discord.js
+- other : Unity / ROS2 / WordPress / GAS
 
 ---
 
@@ -51,7 +51,7 @@
 ---
 ## インターンシップ・課外活動
 
-### 2022~ テニスサークル
+### 2022/4- テニスサークル
 - 資格取得と両立して、テニスの上達に励みました。
 - 現在まで大会の運営係を務めています。
 
