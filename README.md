@@ -7,7 +7,7 @@
 
 ## Links
 
-- My Page : Coming Soon...
+- My Page : Here, [Repository](https://github.com/yuwaga3220/mypage)
 - Tech Blog : [Qiita](https://qiita.com/youwuzhangze)
 - AtCoder : Coming Soon...
 
