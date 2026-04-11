@@ -22,8 +22,8 @@
 ### 2. 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
 - Python / ROS2 / Unity
-- (Private)[Repository for Simulation](https://github.com/yuwaga3220/opera_unity)
-- [ROS2 Repository](https://github.com/yuwaga3220/opera_ws)
+- [Repository](https://github.com/yuwaga3220/opera_unity) for Simulation in Unity(Private)
+- [Repository](https://github.com/yuwaga3220/opera_ws) for Robot Control
 
 ---
 
