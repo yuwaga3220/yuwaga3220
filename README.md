@@ -31,7 +31,7 @@
 
 - Language : TypeScript / JavaScript / Python / C++ / C#
 - Framework : Node.js / React / Next.js / discord.js
-- other : Unity / ROS2 / WordPress / GAS
+- Other : Unity / ROS2 / WordPress / GAS
 
 ---
 
