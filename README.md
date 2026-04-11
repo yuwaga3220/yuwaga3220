@@ -8,7 +8,7 @@
 ## Links
 
 - My Page : [Here](https://mypage-1l4.pages.dev/)
-- Tech Blog : , note, [Qiita](https://qiita.com/youwuzhangze), Zenn
+- Tech Blog : note, [Qiita](https://qiita.com/youwuzhangze), Zenn
 - AtCoder : Coming Soon...
 
 ---
