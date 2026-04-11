@@ -5,7 +5,7 @@
 
 ---
 
-## 関連リンク
+## Links
 
 - My Page : Coming Soon...
 - Tech Blog : [Qiita](https://qiita.com/youwuzhangze)
@@ -13,7 +13,7 @@
 
 ---
 
-## 進行中プロジェクト
+## Current Work
 
 ### 1. テニスサークル向け大会運営アプリ「Nomiteni」
 - [Repository](https://github.com/yuwaga3220/nomiteni)
@@ -27,7 +27,7 @@
 
 ---
 
-## スキル
+## Skills
 
 - Language : TypeScript / JavaScript / Python / C++ / C#
 - Framework : Node.js / React / Next.js / discord.js
@@ -35,7 +35,7 @@
 
 ---
 
-## 過去プロジェクト
+## Private Works
 
 ### 1. ゲーマー向け予定調整Discord Bot「GGWP Scheduler」
 - [Repository](https://github.com/yuwaga3220/ggwp_scheduler)
@@ -51,7 +51,7 @@
 - WordPress
 
 ---
-## インターンシップ・課外活動
+## Activities
 
 ### 2022/4- テニスサークル
 - 資格取得と両立して、テニスの上達に励みました。
@@ -67,7 +67,7 @@
 
 ---
 
-## 資格
+## Certifications
 
 - ITパスポート (2024/2)
 - 基本情報技術者 (2025/2)
@@ -75,7 +75,7 @@
 
 ---
 
-## 趣味
+## My Hobby
 
 - 競技性の高いゲームが好きです！
   - VALORANT
