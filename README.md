@@ -18,6 +18,7 @@
 ### 1. テニスサークル向け大会運営アプリ「Nomiteni」
 - [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / React / Next.js / Prisma
+- 目標：9月の技育博出展、10月の大会にて本番運用
 
 ### 2. 研究活動
 - 災害対応時に必要となる建設機械の遠隔操縦での作業をを効率化する手法の提案と評価を行っています。
