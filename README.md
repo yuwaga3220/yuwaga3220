@@ -7,7 +7,7 @@
 
 ## Links
 
-- My Page : [Here](https://mypage-1l4.pages.dev/)
+- My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
 - Tech Blog : note, [Qiita](https://qiita.com/youwuzhangze), Zenn
 - AtCoder : Coming Soon...
 
@@ -45,25 +45,6 @@
 - [Repository](https://github.com/yuwaga3220/Shooting2S)
 - [Unity Room](https://unityroom.com/games/youjustsupport)
 - Unity / C#
-
-### 3. ゲームブログ「ヴァロラボ」
-- FPSゲーム「VALORANT」に関する攻略情報・Tipsを発信（現在閉鎖）。
-- WordPress
-
----
-## Activities
-
-### 2022/4- テニスサークル
-- 資格取得と両立して、テニスの上達に励みました。
-- 現在まで大会の運営係を務めています。
-
-### 2022-2024 テニスコーチ
-- 初心者～上級者、小学校低学年～大人まで幅広くテニスを教えました。
-- 練習方法の改善や生徒さんとのコミュニケーションを大事にしました。
-
-### 2025/5-2026/4 ITベンチャーでのインターン
-- GASを使用したメディア自動作成システムの開発．WEBシステムの保守・テスト業務
-- GAS(Google Apps Script) / OpenAI API / Gemini API / WordPress REST API
 
 ---
 
