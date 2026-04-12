@@ -43,7 +43,7 @@
 
 ### 2. 2Dシューティングゲーム「You Just Support.」
 - [Repository](https://github.com/yuwaga3220/Shooting2S)
-- [Unity Room](https://unityroom.com/games/youjustsupport)
+- [Unity Room](https://unityroom.com/games/youjustsupport)（ちょっとバグあります）
 - Unity / C#
 
 ---
