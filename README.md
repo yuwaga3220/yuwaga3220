@@ -15,7 +15,7 @@
 
 ## Current Work
 
-### 1. テニスサークル向け大会運営アプリ「Nomiteni」
+### 1. テニスサークル向け大会運営Webアプリ「Nomiteni」
 - [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / React / Next.js / Prisma
 - 目標：9月の技育博出展、10月の大会にて本番運用
