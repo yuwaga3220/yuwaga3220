@@ -19,7 +19,7 @@
 - TypeScript / React / Next.js / Prisma
 - テニスサークル向け大会運営Webアプリ
 - 目標：9月の技育博出展、10月の大会にて本番運用
-### 2. 研究活動
+### 2. Research
 - [Repository](https://github.com/yuwaga3220/opera_unity) for Simulation in Unity (Private)
 - [Repository](https://github.com/yuwaga3220/opera_ws) for Robot Control
 - Python / ROS2 / Unity
