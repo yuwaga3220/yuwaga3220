@@ -5,7 +5,7 @@
 ---
 ## Links
 - My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
-- Tech Blog : note, [Qiita](https://qiita.com/youwuzhangze), Zenn
+- Tech Blog : note, [Qiita](https://qiita.com/youwuzhangze), [Zenn](https://zenn.dev/)
 - AtCoder : Coming Soon...
 ---
 ## Skills
