@@ -23,7 +23,7 @@
 - [Repository](https://github.com/yuwaga3220/opera_unity) for Simulation in Unity (Private)
 - [Repository](https://github.com/yuwaga3220/opera_ws) for Robot Control
 - [Repository](https://github.com/yuwaga3220/opera_web) for Control Interface
-- Python / ROS2 / Unity
+- Python / FastAPI / React(Vite) / ROS2 / Unity
 - 災害対応時に必要となる建設機械の遠隔操縦での作業を支援インタフェースの開発
 ---
 ## Private Works
