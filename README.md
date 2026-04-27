@@ -1,8 +1,3 @@
-## はじめまして！ yuwagaです
-大学3年から開発を始めたエンジニア志望の大学院生です。WebアプリやDiscord Botを開発してきました。
-今後はハッカソンやインターンに参加して実践的な技術を伸ばしていきたいです。
-
----
 ## Links
 - My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
 - Tech Blog : note, [Qiita](https://qiita.com/youwuzhangze), [Zenn](https://zenn.dev/)
