@@ -8,7 +8,7 @@
 - Framework : Node.js / React / Next.js / discord.js
 - Other : Unity / ROS2 / WordPress / GAS
 ---
-## Current Work
+## Current Works
 ### 1. Nomiteni
 - [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / React / Next.js / Prisma
