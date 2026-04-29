@@ -12,20 +12,20 @@
 ### 1. Nomiteni
 - [Repository](https://github.com/yuwaga3220/nomiteni)
 - TypeScript / React / Next.js / Prisma
-- テニスサークル向け大会運営Webアプリ
-- 目標：9月の技育博出展、10月の大会にて本番運用
+- テニスサークル用大会運営Webアプリ
+- 目標：6月リリース / 10月の大会にて本番運用
 ### 2. Research
 - [Repository](https://github.com/yuwaga3220/opera_unity) for Simulation in Unity (Private)
-- [Repository](https://github.com/yuwaga3220/opera_ws) for Robot Control
-- [Repository](https://github.com/yuwaga3220/opera_web) for Control Interface
+- [Repository](https://github.com/yuwaga3220/opera_ws) for ROS2 Work Space
+- [Repository](https://github.com/yuwaga3220/opera_web) for Web Interface
 - Python / FastAPI / React(Vite) / ROS2 / Unity
-- 災害対応時に必要となる建設機械の遠隔操縦での作業を支援インタフェースの開発
+- 遠隔操縦建機での精密作業を支援するARインタフェースの開発
 ---
 ## Private Works
 ### 1. GGWP Scheduler
 - [Repository](https://github.com/yuwaga3220/ggwp_scheduler)
 - TypeScript / Node.js / discord.js / PostgreSQL
-- ゲーマー向け予定調整Discord Bot
+- ゲーマー用予定調整Discord Bot
 ### 2. GG Scheduler
 - [Repository](https://github.com/yuwaga3220/gg_scheduler)
 - TypeScript / React / Next.js / PostgreSQL
