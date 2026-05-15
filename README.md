@@ -14,12 +14,8 @@
 
 ## Current Work
 
-### Nomiteni
-
-- [Repository](https://github.com/yuwaga3220/nomiteni)
-- TypeScript / React / Next.js / Prisma
-- テニスサークル用大会運営Webアプリ
-- 目標：6月リリース / 10月の大会にて本番運用
+### Internship in Techouse
+- Webエンジニアとして実務をやらせていただいています！
 
 ### Research
 
@@ -29,11 +25,15 @@
 - Python / FastAPI / React(Vite) / ROS2 / Unity
 - 遠隔操縦建機での精密作業を支援するARインタフェースの開発
 
-### Internship in Techouse
-
 ---
 
 ## Private Work
+
+### Nomiteni
+
+- [Repository](https://github.com/yuwaga3220/nomiteni)
+- TypeScript / React / Next.js / Prisma
+- テニスサークル用大会運営Webアプリ
 
 ### GGWP Scheduler
 
