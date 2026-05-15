@@ -1,8 +1,6 @@
 ## Link
 
 - My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
-- Blog : note, [Qiita](https://qiita.com/youwuzhangze), [Zenn](https://zenn.dev/)
-- AtCoder : Coming Soon...
 
 ---
 
@@ -30,6 +28,8 @@
 - [Repository](https://github.com/yuwaga3220/opera_web) for Web Interface
 - Python / FastAPI / React(Vite) / ROS2 / Unity
 - 遠隔操縦建機での精密作業を支援するARインタフェースの開発
+
+### Internship in Techouse
 
 ---
 
