@@ -1,4 +1,5 @@
-## Hi there! I'm yuwaga. Student Engineer.
+# Hi there! I'm yuwaga.
+University of Tsukuba. Student Engineer.
 
 ## Link
 
