@@ -3,7 +3,7 @@ University of Tsukuba. Student Engineer.
 
 ## Link
 
-- My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
+- [My Page](https://mypage-1l4.pages.dev/) 
 
 ## Languages and Tools
 
