@@ -1,3 +1,5 @@
+## Hi there! I'm yuwaga. Student Engineer.
+
 ## Link
 
 - My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
