@@ -2,8 +2,8 @@
 
 - My Page : [Here](https://mypage-1l4.pages.dev/) (Career, Activities etc...)
 
-## Skill
+## Languages and Tools
 
-- Languages : TypeScript / Ruby / Python / C++
-- Frameworks : React / Next.js / Rails / FastAPI / discord.js
-- Others : Unity / ROS2 / WordPress / GAS
+- TypeScript / Ruby / Python / C++
+- React / Next.js / Rails / FastAPI / discord.js
+- Unity / ROS2 / WordPress / GAS
