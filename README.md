@@ -1,5 +1,6 @@
 # Hi there! I'm yuwaga.
-University of Tsukuba. Student Engineer.
+Student Engineer in University of tsukuba.
+Working as an internship.
 
 ## Link
 
@@ -7,6 +8,6 @@ University of Tsukuba. Student Engineer.
 
 ## Languages and Tools
 
-- TypeScript / Ruby / Python / C++
-- React / Next.js / Rails / FastAPI / discord.js
-- Unity / ROS2 / WordPress / GAS
+- Ruby on Rails / Typescript / Python
+- React / Next.js / FastAPI / discord.js
+- Unity / ROS2 / GAS
