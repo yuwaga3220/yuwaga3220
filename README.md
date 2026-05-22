@@ -11,6 +11,6 @@ Working as an internship.
 - Ruby on Rails -> Internship
 - Typescript / React / Next.js / discord.js -> Private Development
 - Python / FastAPI / Unity / ROS2 -> Research
-- Unity / ROS2 / GAS
+- GAS
 - Render / Vercel
 - Supabase / PostgreSQL
