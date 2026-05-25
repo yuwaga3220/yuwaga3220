@@ -12,5 +12,5 @@ Working as an internship.
 - Typescript / React / Next.js / discord.js -> Private Development
 - Python / FastAPI / Unity / ROS2 -> Research
 - GAS
-- Render / Vercel
-- Supabase / PostgreSQL
+- Render / Vercel / Supabase
+- PostgreSQL
