@@ -9,7 +9,7 @@ Working as an internship.
 ## Languages and Tools
 
 - Ruby on Rails -> Internship
-- Typescript / React / Next.js / discord.js -> Private Development
+- Ruby on Rails / TypeScript -> Private Development
 - Python / FastAPI / Unity / ROS2 -> Research
 - GAS
 - Render / Vercel / Supabase
