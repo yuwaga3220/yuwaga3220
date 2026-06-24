@@ -1,4 +1,3 @@
-# Hi there! I'm yuwaga.
 Student Engineer in University of tsukuba.
 Working as an internship.
 
