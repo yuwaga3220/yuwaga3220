@@ -3,8 +3,8 @@
 ```ruby
 class Yuwaga
   def initialize
-    @university = "University of Tsukuba"
     @role       = "Student"
+    @university = "University of Tsukuba"
     @internship = "Web Engineer (Ruby on Rails)"
   end
 
