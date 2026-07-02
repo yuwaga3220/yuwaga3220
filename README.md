@@ -4,7 +4,7 @@
 class Yuwaga
   def initialize
     @university = "University of Tsukuba"
-    @role       = "Student Engineer"
+    @role       = "Student"
     @internship = "Web Engineer (Ruby on Rails)"
   end
 
