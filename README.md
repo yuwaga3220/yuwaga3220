@@ -9,7 +9,7 @@ class Yuwaga
   end
 
   def skills
-    ["Ruby on Rails", "TypeScript", "React", "Python"]
+    ["Ruby on Rails", "Python"]
   end
 
   def goal
@@ -17,13 +17,6 @@ class Yuwaga
   end
 end
 ```
-
----
-
-## 🔗 Links
-
-- [My Page](https://mypage-1l4.pages.dev/)
-- [Qiita](https://qiita.com/youwuzhangze)
 
 ---
 
