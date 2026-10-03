@@ -18,6 +18,10 @@ class Yuwaga
 end
 ```
 
+## 🔗 Links
+
+- [My Page](https://mypage-1l4.pages.dev/)
+
 ---
 
 ## 📊 Stats
